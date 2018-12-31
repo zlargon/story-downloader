@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Instagram Story Downloader",
-  "description": "Press 'Shift + D' to play story video",
-  "version": "0.0.1",
+  "description": "Press 'Shift + D' to download instagram story",
+  "version": "0.0.2",
   "browser_action": {
     "default_icon": "icon.png"
   },

@@ -1,6 +1,6 @@
-# Instagram Story Video Downloader
+# Instagram Story Downloader
 
-Press `Shift + D` to download story videos from Instagram
+Press `Shift + D` to download stories from Instagram
 
 # How to install Chrome Extension
 
